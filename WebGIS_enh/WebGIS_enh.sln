@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebGIS_enh", "WebGIS_enh\WebGIS_enh.csproj", "{D710C1C4-37AC-4BD9-BC7E-5ED6710DDA76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebGIS2019", "D:\marjor\6网络地理信息技术\WebGIS2019（5月18） (1)\WebGIS2019\WebGIS2019\WebGIS2019.csproj", "{F62F8BB1-9EB6-48E9-96D4-0D91E78CAAF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D710C1C4-37AC-4BD9-BC7E-5ED6710DDA76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D710C1C4-37AC-4BD9-BC7E-5ED6710DDA76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D710C1C4-37AC-4BD9-BC7E-5ED6710DDA76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D710C1C4-37AC-4BD9-BC7E-5ED6710DDA76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F62F8BB1-9EB6-48E9-96D4-0D91E78CAAF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62F8BB1-9EB6-48E9-96D4-0D91E78CAAF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62F8BB1-9EB6-48E9-96D4-0D91E78CAAF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62F8BB1-9EB6-48E9-96D4-0D91E78CAAF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+E:\microsoft data\vb2012\WebGIS_enh\WebGIS_enh\bin\WebGIS_enh.dll
+E:\microsoft data\vb2012\WebGIS_enh\WebGIS_enh\bin\WebGIS_enh.pdb
+E:\microsoft data\vb2012\WebGIS_enh\WebGIS_enh\obj\Debug\WebGIS_enh.csprojResolveAssemblyReference.cache
+E:\microsoft data\vb2012\WebGIS_enh\WebGIS_enh\obj\Debug\WebGIS_enh.dll
+E:\microsoft data\vb2012\WebGIS_enh\WebGIS_enh\obj\Debug\WebGIS_enh.pdb
